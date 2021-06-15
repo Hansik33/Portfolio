@@ -1,0 +1,41 @@
+body
+{
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+.navbar-brand
+{
+    font-size: 200% !important;
+    letter-spacing: 5px;
+}
+.nav-link
+{
+    font-size: 150% !important;
+    letter-spacing: 3px;
+}
+.black-section
+{
+  background-color: #2e2d2b;
+  color: white;
+}
+.masthead-avatar
+{
+    margin-top: 200px;
+    height: 300px;
+    width: 300px;
+}
+.masthead-heading
+{
+   font-size: 200%;
+   letter-spacing: 5px;
+}
+.masthead-subheading
+{
+    letter-spacing: 15px;
+    border-top: 5px solid #fff;
+    margin-bottom: 100px;
+    font-size: 150%;
+}
+
+
+
