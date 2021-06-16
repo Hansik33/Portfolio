@@ -42,15 +42,15 @@ h2
 }
 .lead
 {
-    font-size: 200% !important;
+    font-size: 150% !important;
 }
 .icons
 {
-    font-size: 400%;
+    font-size: 380%;
 }
 .contact-informations
 {
-    font-size: 200%;
+    font-size: 180%;
 }
 @media (max-width: 768px) 
 {
