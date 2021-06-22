@@ -63,16 +63,15 @@ h2
     }
     .card-img-top
     {
-    width: 100%;
-    height: 20vw;
-    object-fit: cover;
+       width: 100%;
+       height: 20vw;
+       object-fit: cover;
     }
 }
 @media (max-width: 768px) 
 {
     .portfolio-section .card
     {
-        width: 30%;
         margin-top: 1.75rem;
         margin-bottom: 1.75rem;
     }
