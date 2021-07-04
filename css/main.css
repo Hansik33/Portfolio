@@ -54,13 +54,6 @@ h2
 }
 @media (min-width: 768px) 
 {
-    .portfolio-section .card
-    {
-       width: 30%;
-       margin-left: 1.75rem;
-       margin-right: 1.75rem;
-       margin-bottom: 1.75rem;
-    }
     .card-img-top
     {
        width: 100%;
@@ -70,11 +63,6 @@ h2
 }
 @media (max-width: 768px) 
 {
-    .portfolio-section .card
-    {
-        margin-top: 1rem;
-        margin-bottom: 1rem;
-    }
     .icons
     {
         font-size: 350%;
